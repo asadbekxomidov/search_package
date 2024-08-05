@@ -1,6 +1,6 @@
 name: search_package
 description: A Dart package that provides efficient implementations of various search algorithms, including Linear Search, Binary Search, and Jump Search. Ideal for both numerical and string data, this package includes performance metrics to help developers assess search efficiency in their applications.
-version: 1.0.1
+version: 1.0.2
 repository: https://github.com/asadbekxomidov/search_package
 
 environment:
