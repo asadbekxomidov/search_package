@@ -1,6 +1,6 @@
 name: search_package
 description: A Dart package that provides efficient implementations of various search algoritm.
-version: 1.0.2
+version: 1.0.3
 repository: https://github.com/asadbekxomidov/search_package
 
 environment:
